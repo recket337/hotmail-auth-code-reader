@@ -1,0 +1,16 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"email": "example@hotmail.com",
+			"password": "yourpassword",
+			"proxy": "proxy.example.com:8080"
+		},
+		{
+			"id": 2,
+			"email": "anotherexample@hotmail.com",
+			"password": "anotherpassword",
+			"proxy": null
+		}
+	]
+}

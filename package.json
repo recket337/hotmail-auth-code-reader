@@ -1,0 +1,18 @@
+{
+  "name": "hotmail-auth-code-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "https-proxy-agent": "^7.0.4",
+    "imapflow": "^1.0.160"
+  }
+}
